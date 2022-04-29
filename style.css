@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+    padding-bottom: 15px;
+    background-color: #FAF9F6;
+    
+    
+        
+}
+.hero{
+    width: 80%;
+    margin: auto;
+    
+}
+.navbar{
+    margin: 30px auto;
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+}
+.navbar img{
+    position: absolute;
+    left: 45px;
+    top: 40px;
+    
+}
+ul{
+    flex: 1;
+    text-align: right;
+    font-size: 18px;
+    
+}
+ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 25px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 0 10px;
+    position: relative;
+}
+.banner{
+    display: flex;
+    margin-top: 80px;
+}
+.leftcolumn,.rightcolumn{
+    flex-basis: 50%;
+}
+.rightcolumn{
+    padding-top: 50px;
+}
+.rightcolumn img{
+    width: 40%;
+    
+}
+.photo2{
+    position: absolute;
+    right: 100px;
+    top: 450px;
+}
+.photo1{
+    padding-left: 200px;
+}
+.leftcolumn{
+    padding-left: 125px;
+    padding-top: 125px;
+    font-size: 25px;
+    
+}
+.leftcolumn h{
+    font-style: italic;
+    font-size: 18px;
+    
+}
+.leftcolumn p{
+    margin: 50px 0;
+    color: #363636;
+}
+.socials{
+    width: 200px;
+}
+.socials img{
+    margin: 0 2px;
+}
+.leftcolumn2, .rightcolumn2 {
+    flex-basis: 50%;
+    padding-top: 70px;
+}
+.leftcolumn2 img{
+    position: absolute;
+    left: 150px;
+    padding-top: 50px;
+}
+.rightcolumn2{
+    width: 50%;
+    padding-left: 750px;
+    padding-top: 125px;
+    font-size: 25px;
+}
+.rightcolumn2 p{
+    margin: 25px 0;
+}
+
+.leftcolumn3{
+    padding-left: 125px;
+    padding-top: 125px;
+    font-size: 25px;
+    
+    
+}
+.leftcolumn3 h{
+    font-style: italic;
+    font-size: 18px;
+    
+}
+.leftcolumn3 p{
+    
+    color: #363636;
+    padding-top: 25px;
+    width: 60%;
+}
+.tram {
+    position: absolute;
+    right: 100px;
+    width: 500px;
+}
+.t2 {
+    position: absolute;
+    right: -10;
+    top: 500px;
+}
+.photo4 {
+    position: absolute;
+    right: 75px;
+    top: 350px;
+}
+.test-links{
+    margin: 60px 0;
+    line-height: 2em;
+}
+.unity-logo{
+    padding-right: 100;
+    padding-top: 100px;
+}
+.jslogo{
+    padding-top: 50px;
+    margin: 0 70px;
+}
+.rainpic{
+    position: absolute;
+    top: 1150px;
+    right: 35;
+}
+.rainpic2{
+    position: absolute;
+    top: 1800px;
+    right: 100;
+}
+.rainpic3{
+    position: absolute;
+    top: 2800px;
+    right: 75;
+}
+.desc li {
+    text-align: left;
+    font-size: 25px;
+    list-style: circle;
+    margin: 0%;
+    display: inline-block;
+    width: 1900px;
+
+}
+/* .indent{
+    padding-left: 50px;
+} */
+
+span{
+    color: #047D9C;
+}
