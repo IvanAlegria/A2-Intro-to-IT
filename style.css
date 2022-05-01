@@ -180,3 +180,27 @@ ul li a{
 span{
     color: #047D9C;
 }
+.ron {position: absolute;
+top: 500px;
+right: 75;
+}
+.anin {position: absolute;
+top: 1400px;
+right: 75;
+}
+.albert {position: absolute;
+top: 2950px;
+right: 75;
+}
+.kelvin {position: absolute;
+top: 2200px;
+right: 75;
+}
+.ivan {position: absolute;
+top: 3900px;
+right: 75;
+}
+.altaf {position: absolute;
+top: 4700px;
+right: 75;
+}
